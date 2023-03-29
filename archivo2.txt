@@ -1,2 +1,1 @@
-Ahora hemos cambiado todo el texto que tenemos dentro
-dsgdssdgdfssdgdfgsdf
+Este archivo es el segundo que creamos
